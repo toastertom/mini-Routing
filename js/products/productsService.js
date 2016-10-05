@@ -1,3 +1,4 @@
+// Service is all about data.
 angular.module('miniRouting').service('productService', function(){
   this.shoeData = [
     {
